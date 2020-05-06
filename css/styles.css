@@ -1,0 +1,19 @@
+/*1*/
+p {
+    color: rgba(0, 0, 0, 1);
+    font-size: 45px;
+    text-align: justify;
+}
+
+/*10*/
+.test {
+    color: rgb(230, 230, 230);
+    font-size: 30px;
+    background-color: #000;
+}
+
+/*11*/
+p.test {
+    color: #3e3e3e;
+    background-color: transparent;
+}
